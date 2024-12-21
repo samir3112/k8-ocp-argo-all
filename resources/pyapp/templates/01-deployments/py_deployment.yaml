@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: py
-        image: cbagade/py-kube-setup:latest
+        image: samir3112/py-first-prog
         ports:
         - name: http
           containerPort: 5000
